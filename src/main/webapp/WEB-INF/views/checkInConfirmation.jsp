@@ -6,9 +6,11 @@
 <meta charset="ISO-8859-1">
 <title>Check In Confirmation</title>
 </head>
+
 <body>
 
 	Check in completed Succesfully!
 
 </body>
+
 </html>
